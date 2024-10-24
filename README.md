@@ -51,7 +51,10 @@ High resolution. Take whatever you need and create something great.
 |    Nintendo Game Boy Color    |      gbc       | <img width="100" src="./264w@2x/gbc@264.png">         |  Nintendo Super Game Boy  |      sgb       | <img width="100" src="./264w@2x/sgb@264.png">       |
 |    Nintendo Super Nintendo    |      sfc       | <img width="100" src="./264w@2x/sfc@264.png">         |  SNK NeoGeo Pocket Color  |      ngpc      | <img width="100" src="./264w@2x/ngpc@264.png">      |
 |    TIC-80Commodore VIC-20     |      tic       | <img width="100" src="./264w@2x/tic@264.png">         | Nintendo Game Boy Advance |      gba       | <img width="100" src="./264w@2x/gba@264.png">       |
-| Nintendo Entertainment System |       fc       | <img width="100" src="./264w@2x/fc@264.png">          |                           |                |                                                     |
+| Nintendo Entertainment System |       fc       | <img width="100" src="./264w@2x/fc@264.png">          |         Atari 800         |    atari800    | <img width="100" src="./264w@2x/atari800@264.png">  |
+|            X68000             |     x68000     | <img width="100" src="./264w@2x/x68000@264.png">      |          FFPlay           |     ffplay     | <img width="100" src="./264w@2x/ffplay@264.png">    |
+|           Game Doom           |      doom      | <img width="100" src="./264w@2x/doom@264.png">        |        Game Quake         |     quake      | <img width="100" src="./264w@2x/quake@264.png">     |
+|           ChaiLove            |      chai      | <img width="100" src="./264w@2x/chai@264.png">        |       Game Wolf 3D        |      wolf      | <img width="100" src="./264w@2x/wolf@264.png">      |
 
 
 ## 2. Menu main
