@@ -1,7 +1,7 @@
 ![BANNER](./art/art-horizontal-3000h.png)
 
 # Retro game console icons. etc
-> high resolution, take whatever you what
+High resolution. Take whatever you need and create something great.
 
 - Retro game console icons
 - Miyoo main menu icons
@@ -16,42 +16,42 @@
    - 512w
    - 1024w
 
-|          Device Name          | Icon File Name | Icon                                                 |        Device Name        | Icon File Name | Icon                                               |
-|:-----------------------------:|:--------------:|------------------------------------------------------|:-------------------------:|:--------------:|----------------------------------------------------|
-|          IntelliVis           |      itv       | <img width="80" src="./264w@2x/itv@264.png">         |            PSP            |      psp       | <img width="80" src="./264w@2x/psp@264.png">       |
-|             Amiga             |     amiga      | <img width="80" src="./264w@2x/amiga@264.png">       |       Genesis MSU1        |      msu1      | <img width="80" src="./264w@2x/msu1@264.png">      |
-|         Genesis MSUMD         |     msumd      | <img width="80" src="./264w@2x/msumd@264.png">       |          Arcade           |     arcade     | <img width="80" src="./264w@2x/arcade@264.png">    |
-|            ArduBoy            |    arduboy     | <img width="80" src="./264w@2x/arduboy@264.png">     |          AtariST          |    atarist     | <img width="80" src="./264w@2x/atarist@264.png">   |
-|            EasyRPG            |    easyrpg     | <img width="80" src="./264w@2x/easyrpg@264.png">     |          MS-DOS           |      dos       | <img width="80" src="./264w@2x/dos@264.png">       |
-|            OpenBor            |    openbor     | <img width="80" src="./264w@2x/openbor@264.png">     |          PICO-8           |      pico      | <img width="80" src="./264w@2x/pico@264.png">      |
-|            ScummVM            |    scummvm     | <img width="80" src="./264w@2x/scummvm@264.png">     |          Search           |     search     | <img width="80" src="./264w@2x/search@264.png">    |
-|            Sega CD            |     segacd     | <img width="80" src="./264w@2x/segacd@264.png">      |         Sega 32X          |      32X       | <img width="80" src="./264w@2x/32X@264.png">       |
-|           VideoPac            |      vdp       | <img width="80" src="./264w@2x/vdp@264.png">         |        Amstrad CPC        |      cpc       | <img width="80" src="./264w@2x/cpc@264.png">       |
-|          Atari 2600           |     atari      | <img width="80" src="./264w@2x/atari@264.png">       |        Atari 5200         |      5200      | <img width="80" src="./264w@2x/5200@264.png">      |    
-|          Atari 7800           |      7800      | <img width="80" src="./264w@2x/7800@264.png">        |        Atari Lynx         |      lynx      | <img width="80" src="./264w@2x/lynx@264.png">      |
-|          GCE Vectrex          |    vectrex     | <img width="80" src="./264w@2x/vectrex@264.png">     |         Mega Duck         |    megaduck    | <img width="80" src="./264w@2x/megaduck@264.png">  |
-|          MSX - MSX2           |      msx       | <img width="80" src="./264w@2x/msx@264.png">         |        Nintendo 64        |      n64       | <img width="80" src="./264w@2x/n64@264.png">       |
-|          Nintendo DS          |      nds       | <img width="80" src="./264w@2x/nds@264.png">         |        SNK NeoGeo         |     neogeo     | <img width="80" src="./264w@2x/neogeo@264.png">    |
-|          supervision          |  supervision   | <img width="80" src="./264w@2x/supervision@264.png"> |       Colecovision        |      col       | <img width="80" src="./264w@2x/col@264.png">       |
-|         Commodore 64          |      c64       | <img width="80" src="./264w@2x/c64@264.png">         |       Game & Watch        |       gw       | <img width="80" src="./264w@2x/gw@264.png">        |
-|         Sega Genesis          |       md       | <img width="80" src="./264w@2x/md@264.png">          |       Sega SG-1000        |   segasgone    | <img width="80" src="./264w@2x/segasgone@264.png"> |
-|         SNK NeoGeo CD         |     neocd      | <img width="80" src="./264w@2x/neocd@264.png">       |      NEC SuperGrafx       |      sgfx      | <img width="80" src="./264w@2x/sgfx@264.png">      |
-|        Sega Dreamcast         |       dc       | <img width="80" src="./264w@2x/dc@264.png">          |      Sega Game Gear       |       gg       | <img width="80" src="./264w@2x/gg@264.png">        |
-|       Bandai WonderSwan       |       ws       | <img width="80" src="./264w@2x/ws@264.png">          |     NEC TurboGrafx CD     |     pcecd      | <img width="80" src="./264w@2x/pcecd@264.png">     |
-|       NEC TurboGrafx-16       |      pce       | <img width="80" src="./264w@2x/pce@264.png">         |     Nintendo Game Boy     |       gb       | <img width="80" src="./264w@2x/gb@264.png">        |
-|       Nintendo Pokemini       |      poke      | <img width="80" src="./264w@2x/poke@264.png">        |     Ports collection      |     ports      | <img width="80" src="./264w@2x/ports@264.png">     |
-|       SNK NeoGeo Pocket       |      ngp       | <img width="80" src="./264w@2x/ngp@264.png">         |     Sony Playstation      |       ps       | <img width="80" src="./264w@2x/ps@264.png">        |
-|      Arcade (Mame 2003+)      |      mame      | <img width="80" src="./264w@2x/mame@264.png">        |    Arcade (Mame 2003+)    |     arcade     | <img width="80" src="./264w@2x/arcade@264.png">    |
-|      Bandai Sufami Turbo      |     sufami     | <img width="80" src="./264w@2x/sufami@264.png">      |    Fairchild Channel F    |   fairchild    | <img width="80" src="./264w@2x/fairchild@264.png"> |
-|      Famicom Disk System      |      fds       | <img width="80" src="./264w@2x/fds@264.png">         |    Magnavox Odyssey 2     |      ody       | <img width="80" src="./264w@2x/ody@264.png">       |
-|      Sega Master System       |       ms       | <img width="80" src="./264w@2x/ms@264.png">          |   Capcom Play System 1    |      cps1      | <img width="80" src="./264w@2x/cps1@264.png">      |
-|     Capcom Play System 2      |      cps2      | <img width="80" src="./264w@2x/cps2@264.png">        |   Capcom Play System 3    |      cps3      | <img width="80" src="./264w@2x/cps3@264.png">      |
-|     Nintendo Satellaview      |    satella     | <img width="80" src="./264w@2x/satella@264.png">     |   Nintendo Virtual Boy    |       vb       | <img width="80" src="./264w@2x/vb@264.png">        |
-|     Sinclair ZX Spectrum      |      zxs       | <img width="80" src="./264w@2x/zxs@264.png">         |  Bandai WonderSwan Color  |      wsc       | <img width="80" src="./264w@2x/wsc@264.png">       |
-|    Nintendo Game Boy Color    |      gbc       | <img width="80" src="./264w@2x/gbc@264.png">         |  Nintendo Super Game Boy  |      sgb       | <img width="80" src="./264w@2x/sgb@264.png">       |
-|    Nintendo Super Nintendo    |      sfc       | <img width="80" src="./264w@2x/sfc@264.png">         |  SNK NeoGeo Pocket Color  |      ngpc      | <img width="80" src="./264w@2x/ngpc@264.png">      |
-|    TIC-80Commodore VIC-20     |      tic       | <img width="80" src="./264w@2x/tic@264.png">         | Nintendo Game Boy Advance |      gba       | <img width="80" src="./264w@2x/gba@264.png">       |
-| Nintendo Entertainment System |       fc       | <img width="80" src="./264w@2x/fc@264.png">          |                           |                |                                                    |
+|          Device Name          | Icon File Name | Icon                                                  |        Device Name        | Icon File Name | Icon                                                |
+|:-----------------------------:|:--------------:|-------------------------------------------------------|:-------------------------:|:--------------:|-----------------------------------------------------|
+|          IntelliVis           |      itv       | <img width="100" src="./264w@2x/itv@264.png">         |            PSP            |      psp       | <img width="100" src="./264w@2x/psp@264.png">       |
+|             Amiga             |     amiga      | <img width="100" src="./264w@2x/amiga@264.png">       |       Genesis MSU1        |      msu1      | <img width="100" src="./264w@2x/msu1@264.png">      |
+|         Genesis MSUMD         |     msumd      | <img width="100" src="./264w@2x/msumd@264.png">       |          Arcade           |     arcade     | <img width="100" src="./264w@2x/arcade@264.png">    |
+|            ArduBoy            |    arduboy     | <img width="100" src="./264w@2x/arduboy@264.png">     |          AtariST          |    atarist     | <img width="100" src="./264w@2x/atarist@264.png">   |
+|            EasyRPG            |    easyrpg     | <img width="100" src="./264w@2x/easyrpg@264.png">     |          MS-DOS           |      dos       | <img width="100" src="./264w@2x/dos@264.png">       |
+|            OpenBor            |    openbor     | <img width="100" src="./264w@2x/openbor@264.png">     |          PICO-8           |      pico      | <img width="100" src="./264w@2x/pico@264.png">      |
+|            ScummVM            |    scummvm     | <img width="100" src="./264w@2x/scummvm@264.png">     |                           |                |                                                     |
+|            Sega CD            |     segacd     | <img width="100" src="./264w@2x/segacd@264.png">      |         Sega 32X          |      32X       | <img width="100" src="./264w@2x/32X@264.png">       |
+|           VideoPac            |      vdp       | <img width="100" src="./264w@2x/vdp@264.png">         |        Amstrad CPC        |      cpc       | <img width="100" src="./264w@2x/cpc@264.png">       |
+|          Atari 2600           |     atari      | <img width="100" src="./264w@2x/atari@264.png">       |        Atari 5200         |      5200      | <img width="100" src="./264w@2x/5200@264.png">      |    
+|          Atari 7800           |      7800      | <img width="100" src="./264w@2x/7800@264.png">        |        Atari Lynx         |      lynx      | <img width="100" src="./264w@2x/lynx@264.png">      |
+|          GCE Vectrex          |    vectrex     | <img width="100" src="./264w@2x/vectrex@264.png">     |         Mega Duck         |    megaduck    | <img width="100" src="./264w@2x/megaduck@264.png">  |
+|          MSX - MSX2           |      msx       | <img width="100" src="./264w@2x/msx@264.png">         |        Nintendo 64        |      n64       | <img width="100" src="./264w@2x/n64@264.png">       |
+|          Nintendo DS          |      nds       | <img width="100" src="./264w@2x/nds@264.png">         |        SNK NeoGeo         |     neogeo     | <img width="100" src="./264w@2x/neogeo@264.png">    |
+|          supervision          |  supervision   | <img width="100" src="./264w@2x/supervision@264.png"> |       Colecovision        |      col       | <img width="100" src="./264w@2x/col@264.png">       |
+|         Commodore 64          |      c64       | <img width="100" src="./264w@2x/c64@264.png">         |       Game & Watch        |       gw       | <img width="100" src="./264w@2x/gw@264.png">        |
+|         Sega Genesis          |       md       | <img width="100" src="./264w@2x/md@264.png">          |       Sega SG-1000        |   segasgone    | <img width="100" src="./264w@2x/segasgone@264.png"> |
+|         SNK NeoGeo CD         |     neocd      | <img width="100" src="./264w@2x/neocd@264.png">       |      NEC SuperGrafx       |      sgfx      | <img width="100" src="./264w@2x/sgfx@264.png">      |
+|        Sega Dreamcast         |       dc       | <img width="100" src="./264w@2x/dc@264.png">          |      Sega Game Gear       |       gg       | <img width="100" src="./264w@2x/gg@264.png">        |
+|       Bandai WonderSwan       |       ws       | <img width="100" src="./264w@2x/ws@264.png">          |     NEC TurboGrafx CD     |     pcecd      | <img width="100" src="./264w@2x/pcecd@264.png">     |
+|       NEC TurboGrafx-16       |      pce       | <img width="100" src="./264w@2x/pce@264.png">         |     Nintendo Game Boy     |       gb       | <img width="100" src="./264w@2x/gb@264.png">        |
+|       Nintendo Pokemini       |      poke      | <img width="100" src="./264w@2x/poke@264.png">        |     Ports collection      |     ports      | <img width="100" src="./264w@2x/ports@264.png">     |
+|       SNK NeoGeo Pocket       |      ngp       | <img width="100" src="./264w@2x/ngp@264.png">         |     Sony Playstation      |       ps       | <img width="100" src="./264w@2x/ps@264.png">        |
+|      Arcade (Mame 2003+)      |      mame      | <img width="100" src="./264w@2x/mame@264.png">        |    Arcade (Mame 2003+)    |     arcade     | <img width="100" src="./264w@2x/arcade@264.png">    |
+|      Bandai Sufami Turbo      |     sufami     | <img width="100" src="./264w@2x/sufami@264.png">      |    Fairchild Channel F    |   fairchild    | <img width="100" src="./264w@2x/fairchild@264.png"> |
+|      Famicom Disk System      |      fds       | <img width="100" src="./264w@2x/fds@264.png">         |    Magnavox Odyssey 2     |      ody       | <img width="100" src="./264w@2x/ody@264.png">       |
+|      Sega Master System       |       ms       | <img width="100" src="./264w@2x/ms@264.png">          |   Capcom Play System 1    |      cps1      | <img width="100" src="./264w@2x/cps1@264.png">      |
+|     Capcom Play System 2      |      cps2      | <img width="100" src="./264w@2x/cps2@264.png">        |   Capcom Play System 3    |      cps3      | <img width="100" src="./264w@2x/cps3@264.png">      |
+|     Nintendo Satellaview      |    satella     | <img width="100" src="./264w@2x/satella@264.png">     |   Nintendo Virtual Boy    |       vb       | <img width="100" src="./264w@2x/vb@264.png">        |
+|     Sinclair ZX Spectrum      |      zxs       | <img width="100" src="./264w@2x/zxs@264.png">         |  Bandai WonderSwan Color  |      wsc       | <img width="100" src="./264w@2x/wsc@264.png">       |
+|    Nintendo Game Boy Color    |      gbc       | <img width="100" src="./264w@2x/gbc@264.png">         |  Nintendo Super Game Boy  |      sgb       | <img width="100" src="./264w@2x/sgb@264.png">       |
+|    Nintendo Super Nintendo    |      sfc       | <img width="100" src="./264w@2x/sfc@264.png">         |  SNK NeoGeo Pocket Color  |      ngpc      | <img width="100" src="./264w@2x/ngpc@264.png">      |
+|    TIC-80Commodore VIC-20     |      tic       | <img width="100" src="./264w@2x/tic@264.png">         | Nintendo Game Boy Advance |      gba       | <img width="100" src="./264w@2x/gba@264.png">       |
+| Nintendo Entertainment System |       fc       | <img width="100" src="./264w@2x/fc@264.png">          |                           |                |                                                     |
 
 
 ## 2. Menu main
