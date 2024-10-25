@@ -8,6 +8,9 @@ High resolution. Take whatever you need and create something great.
 - Miyoo app icons
 - Art
 
+They will look better on a black background, as I used a black background when drawing them.
+
+
 ## 1. Game console icons
    - 132w@1x 
    - 264w@2x 
