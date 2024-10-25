@@ -91,7 +91,8 @@ They will look better on a black background, as I used a black background when d
 |   retroarch    | <img width="80" src="./apps/retroarch@2x.png">     |  retroexpert   | <img width="80" src="./apps/retroexpert@2x.png"> |       rtc       | <img width="80" src="./apps/rtc@2x.png">             |  
 |    scraper     | <img width="80" src="./apps/scraper@2x.png">       |     search     | <img width="80" src="./apps/search@2x.png">      |     sftpgo      | <img width="80" src="./apps/sftpgo@2x.png">          |  
 |   syncthing    | <img width="80" src="./apps/syncthing@2x.png">     |    terminal    | <img width="80" src="./apps/terminal@2x.png">    |     themes      | <img width="80" src="./apps/themes@2x.png">          |  
-|     tweaks     | <img width="80" src="./apps/tweaks@2x.png">        |      usb       | <img width="80" src="./apps/usb@2x.png">         |                 |                                                      |  
+|     tweaks     | <img width="80" src="./apps/tweaks@2x.png">        |      usb       | <img width="80" src="./apps/usb@2x.png">         | firmwareupdate  | <img width="80" src="./apps/firmwareupdate@2x.png">  |  
+|    updater     | <img width="80" src="./apps/updater@2x.png">       |                |                                                  |                 |                                                      |  
 
 ## 4. Arg image
 
