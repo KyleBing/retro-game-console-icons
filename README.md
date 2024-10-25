@@ -1,6 +1,6 @@
 ![BANNER](./art/art-horizontal-3000h.png)
 
-# Retro game console icons. etc
+# Retro game console icons, etc.
 High resolution. Take whatever you need and create something great.
 
 - Retro game console icons
