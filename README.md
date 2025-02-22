@@ -74,25 +74,25 @@ They will look better on a black background, as I used a black background when d
 
 ## 3. Miyoo app icons
 
-| Icon File Name | Icon Active                                        | Icon File Name | Icon Active                                      | Icon File Name  | Icon Active                                          |
-|:--------------:|----------------------------------------------------|:--------------:|--------------------------------------------------|:---------------:|------------------------------------------------------|
-| EasyLogoTweak  | <img width="80" src="./apps/EasyLogoTweak@2x.png"> |      SSH       | <img width="80" src="./apps/SSH@2x.png">         |    activity     | <img width="80" src="./apps/activity@2x.png">        |  
-|  advancemenu   | <img width="80" src="./apps/advancemenu@2x.png">   |     backup     | <img width="80" src="./apps/backup@2x.png">      | battery_monitor | <img width="80" src="./apps/battery_monitor@2x.png"> |  
-|    bootlogo    | <img width="80" src="./apps/bootlogo@2x.png">      |     clock      | <img width="80" src="./apps/clock@2x.png">       |    commander    | <img width="80" src="./apps/commander@2x.png">       |  
-|      dice      | <img width="80" src="./apps/dice@2x.png">          |    display     | <img width="80" src="./apps/display@2x.png">     |    emufresh     | <img width="80" src="./apps/emufresh@2x.png">        |  
-|    ereader     | <img width="80" src="./apps/ereader@2x.png">       |     expert     | <img width="80" src="./apps/expert@2x.png">      | expertappswitch | <img width="80" src="./apps/expertappswitch@2x.png"> |  
-|     ffplay     | <img width="80" src="./apps/ffplay@2x.png">        |      file      | <img width="80" src="./apps/file@2x.png">        |   filebrowser   | <img width="80" src="./apps/filebrowser@2x.png">     |  
-|    gallery     | <img width="80" src="./apps/gallery@2x.png">       |    gamelist    | <img width="80" src="./apps/gamelist@2x.png">    |  gameswitcher   | <img width="80" src="./apps/gameswitcher@2x.png">    |  
-|   guest_off    | <img width="80" src="./apps/guest_off@2x.png">     |    guest_on    | <img width="80" src="./apps/guest_on@2x.png">    |    iconfresh    | <img width="80" src="./apps/iconfresh@2x.png">       |  
-|      led       | <img width="80" src="./apps/led@2x.png">           |   logotweak    | <img width="80" src="./apps/logotweak@2x.png">   |     manual      | <img width="80" src="./apps/manual@2x.png">          |  
-|   menuswitch   | <img width="80" src="./apps/menuswitch@2x.png">    |     music      | <img width="80" src="./apps/music@2x.png">       |    otaupdate    | <img width="80" src="./apps/otaupdate@2x.png">       |  
-|     pacman     | <img width="80" src="./apps/pacman@2x.png">        |      pdf       | <img width="80" src="./apps/pdf@2x.png">         |      pico8      | <img width="80" src="./apps/pico8@2x.png">           |  
-|     random     | <img width="80" src="./apps/random@2x.png">        |    recents     | <img width="80" src="./apps/recents@2x.png">     |     restore     | <img width="80" src="./apps/restore@2x.png">         |  
-|   retroarch    | <img width="80" src="./apps/retroarch@2x.png">     |  retroexpert   | <img width="80" src="./apps/retroexpert@2x.png"> |       rtc       | <img width="80" src="./apps/rtc@2x.png">             |  
-|    scraper     | <img width="80" src="./apps/scraper@2x.png">       |     search     | <img width="80" src="./apps/search@2x.png">      |     sftpgo      | <img width="80" src="./apps/sftpgo@2x.png">          |  
-|   syncthing    | <img width="80" src="./apps/syncthing@2x.png">     |    terminal    | <img width="80" src="./apps/terminal@2x.png">    |     themes      | <img width="80" src="./apps/themes@2x.png">          |  
-|     tweaks     | <img width="80" src="./apps/tweaks@2x.png">        |      usb       | <img width="80" src="./apps/usb@2x.png">         | firmwareupdate  | <img width="80" src="./apps/firmwareupdate@2x.png">  |  
-|    updater     | <img width="80" src="./apps/updater@2x.png">       |                |                                                  |                 |                                                      |  
+| Icon File Name | Icon Active                                        | Icon File Name | Icon Active                                       | Icon File Name  | Icon Active                                          |
+|:--------------:|----------------------------------------------------|:--------------:|---------------------------------------------------|:---------------:|------------------------------------------------------|
+| EasyLogoTweak  | <img width="80" src="./apps/EasyLogoTweak@2x.png"> |      SSH       | <img width="80" src="./apps/SSH@2x.png">          |    activity     | <img width="80" src="./apps/activity@2x.png">        |  
+|  advancemenu   | <img width="80" src="./apps/advancemenu@2x.png">   |     backup     | <img width="80" src="./apps/backup@2x.png">       | battery_monitor | <img width="80" src="./apps/battery_monitor@2x.png"> |  
+|    bootlogo    | <img width="80" src="./apps/bootlogo@2x.png">      |     clock      | <img width="80" src="./apps/clock@2x.png">        |    commander    | <img width="80" src="./apps/commander@2x.png">       |  
+|      dice      | <img width="80" src="./apps/dice@2x.png">          |    display     | <img width="80" src="./apps/display@2x.png">      |    emufresh     | <img width="80" src="./apps/emufresh@2x.png">        |  
+|    ereader     | <img width="80" src="./apps/ereader@2x.png">       |     expert     | <img width="80" src="./apps/expert@2x.png">       | expertappswitch | <img width="80" src="./apps/expertappswitch@2x.png"> |  
+|     ffplay     | <img width="80" src="./apps/ffplay@2x.png">        |      file      | <img width="80" src="./apps/file@2x.png">         |   filebrowser   | <img width="80" src="./apps/filebrowser@2x.png">     |  
+|    gallery     | <img width="80" src="./apps/gallery@2x.png">       |    gamelist    | <img width="80" src="./apps/gamelist@2x.png">     |  gameswitcher   | <img width="80" src="./apps/gameswitcher@2x.png">    |  
+|   guest_off    | <img width="80" src="./apps/guest_off@2x.png">     |    guest_on    | <img width="80" src="./apps/guest_on@2x.png">     |    iconfresh    | <img width="80" src="./apps/iconfresh@2x.png">       |  
+|      led       | <img width="80" src="./apps/led@2x.png">           |   logotweak    | <img width="80" src="./apps/logotweak@2x.png">    |     manual      | <img width="80" src="./apps/manual@2x.png">          |  
+|   menuswitch   | <img width="80" src="./apps/menuswitch@2x.png">    |     music      | <img width="80" src="./apps/music@2x.png">        |    otaupdate    | <img width="80" src="./apps/otaupdate@2x.png">       |  
+|     pacman     | <img width="80" src="./apps/pacman@2x.png">        |      pdf       | <img width="80" src="./apps/pdf@2x.png">          |      pico8      | <img width="80" src="./apps/pico8@2x.png">           |  
+|     random     | <img width="80" src="./apps/random@2x.png">        |    recents     | <img width="80" src="./apps/recents@2x.png">      |     restore     | <img width="80" src="./apps/restore@2x.png">         |  
+|   retroarch    | <img width="80" src="./apps/retroarch@2x.png">     |  retroexpert   | <img width="80" src="./apps/retroexpert@2x.png">  |       rtc       | <img width="80" src="./apps/rtc@2x.png">             |  
+|    scraper     | <img width="80" src="./apps/scraper@2x.png">       |     search     | <img width="80" src="./apps/search@2x.png">       |     sftpgo      | <img width="80" src="./apps/sftpgo@2x.png">          |  
+|   syncthing    | <img width="80" src="./apps/syncthing@2x.png">     |    terminal    | <img width="80" src="./apps/terminal@2x.png">     |     themes      | <img width="80" src="./apps/themes@2x.png">          |  
+|     tweaks     | <img width="80" src="./apps/tweaks@2x.png">        |      usb       | <img width="80" src="./apps/usb@2x.png">          | firmwareupdate  | <img width="80" src="./apps/firmwareupdate@2x.png">  |  
+|    updater     | <img width="80" src="./apps/updater@2x.png">       | theme gallery  | <img width="80" src="./apps/themegallery@2x.png"> |                 |                                                      |  
 
 ## 4. Arg image
 
