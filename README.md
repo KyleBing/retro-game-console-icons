@@ -1,7 +1,7 @@
-![BANNER](./art/art-horizontal-3000h.png)
+![BANNER](./art/preview-black.png)
 
 
-> [series_miyoo icons](./series_miyoo/README.md)
+> [→ series_miyoo icons](./series_miyoo/README.md)
 
 # Series TrimUI
 # Retro game console icons, etc.
