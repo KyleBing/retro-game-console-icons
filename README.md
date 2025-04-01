@@ -51,3 +51,15 @@ They will look better on a black background, as I used a black background when d
 |  <img width="100" src="./series_trimui/Apps@1x/OTA-update.png"><br/>OTA-update  |      <img width="100" src="./series_trimui/Apps@1x/PortMaster.png"><br/>PortMaster      |            <img width="100" src="./series_trimui/Apps@1x/Random.png"><br/>Random            |       <img width="100" src="./series_trimui/Apps@1x/Reboot.png"><br/>Reboot       |    <img width="100" src="./series_trimui/Apps@1x/RetroArch.png"><br/>RetroArch    | 
 |     <img width="100" src="./series_trimui/Apps@1x/Scraper.png"><br/>Scraper     |  <img width="100" src="./series_trimui/Apps@1x/ScreenRecorder.png"><br/>ScreenRecorder  |       <img width="100" src="./series_trimui/Apps@1x/SystemTools.png"><br/>SystemTools       |     <img width="100" src="./series_trimui/Apps@1x/Terminal.png"><br/>Terminal     |    <img width="100" src="./series_trimui/Apps@1x/UserGuide.png"><br/>UserGuide    | 
 |   <img width="100" src="./series_trimui/Apps@1x/fn_editor.png"><br/>fn_editor   |       <img width="100" src="./series_trimui/Apps@1x/moonlight.png"><br/>moonlight       |            <img width="100" src="./series_trimui/Apps@1x/player.png"><br/>player            |  <img width="100" src="./series_trimui/Apps@1x/usb_storage.png"><br/>usb_storage  |
+
+
+## Related themes
+
+### TrimUI
+- **Cozy for TrimUI Brick** `CrossMix` [theme-cozy-brick-crossmix](https://github.com/KyleBing/theme-cozy-brick-crossmix)
+- **Cozy for TrimUI Smart Pro** `CrossMix` [theme-cozy-tsp-crossmixos](https://github.com/KyleBing/theme-cozy-tsp-crossmixos)
+
+### Miyoo
+- **Cosy for Miyoo Mini+** `OnionOS` [onion-theme-cosy](https://github.com/KyleBing/onion-theme-cosy)
+- **Cosy for Miyoo Flip** `StockOS` [theme-cosy-miyoo-flip-stock](https://github.com/KyleBing/theme-cosy-miyoo-flip-stock)
+- **Cosy for Miyoo A30** `SpruceOS` [spruce-theme-cosy](https://github.com/KyleBing/spruce-theme-cosy)
