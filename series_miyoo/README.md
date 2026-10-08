@@ -2,7 +2,7 @@
 
 # Series Miyoo
 # Retro game console icons, etc.
-High resolution. Take whatever you need and create something great.
+High resolution. Take whatever you need and create something great. Free to use under [CC BY 4.0](../LICENSE); please credit this library: https://github.com/KyleBing/retro-game-console-icons
 
 - Retro game console icons
 - Miyoo main menu icons

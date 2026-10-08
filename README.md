@@ -5,7 +5,7 @@
 
 # Series TrimUI
 # Retro game console icons, etc.
-High resolution. Take whatever you need and create something great.
+High resolution. Take whatever you need and create something great. Free to use under [CC BY 4.0](./LICENSE); please credit this library.
 
 - Retro game console icons
 - TrimUI app icons
@@ -63,3 +63,13 @@ They will look better on a black background, as I used a black background when d
 - **Cosy for Miyoo Mini+** `OnionOS` [onion-theme-cosy](https://github.com/KyleBing/onion-theme-cosy)
 - **Cosy for Miyoo Flip** `StockOS` [theme-cosy-miyoo-flip-stock](https://github.com/KyleBing/theme-cosy-miyoo-flip-stock)
 - **Cosy for Miyoo A30** `SpruceOS` [spruce-theme-cosy](https://github.com/KyleBing/spruce-theme-cosy)
+
+## License
+
+These icons and artwork are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You may copy, modify, and share them for any purpose, including commercial use. When you do, credit this library and note any changes. For example:
+
+> Retro game console icons by KyleBing  
+> https://github.com/KyleBing/retro-game-console-icons  
+> Licensed under CC BY 4.0
